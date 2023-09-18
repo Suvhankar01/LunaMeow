@@ -1,0 +1,240 @@
+body{
+    background-color: #ffedd9;
+}
+
+.c0{
+    height: 70px;
+    width: 100%;
+}
+
+.text{
+    text-align: center;
+}
+
+.text>h1{
+    color: #EB5C1A;
+}
+.text > h2{
+    color: #EB883B;
+}
+
+#background{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.d1{
+    background-color: #ffedd9;
+    height: 100px;
+    width: 100%;
+}
+
+.i1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.foot{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.c1{
+    text-align: center;
+}
+
+.c1 > h1{
+    color: #E07000;
+}
+
+.baby{
+    color: #E07000;
+}
+
+.skill{
+    font-size: 50px;
+    text-align: center;
+    color: #EB5C1A;
+}
+
+.pet{
+    height: 50px;
+    width: 50px;
+}
+
+.hunt{
+    float: left;
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.groom{
+    float: right;
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.meow{
+    float: left;
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.zen{
+    float: left;
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.box{
+    float: right;
+    height: 250px;
+    width: 350px;
+    border-radius: 20px;
+    
+}
+
+.l1{
+    text-align: left;
+}
+
+.l2{
+    text-align: right;
+}
+
+.l3{
+    text-align: left;
+}
+
+.l4{
+    text-align: right;
+}
+
+.end{
+    text-align: center;
+    color: #F07503;
+}
+
+#hi{
+    font-size: 75px;
+    font-family: 'Caveat', cursive;;
+}
+
+#beauty{
+    font-size: 50px;
+    font-family: 'Caveat', cursive;
+
+}
+
+.c1 > h1{
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}
+
+.baby{
+    font-family: 'Caveat', cursive;
+    font-size: 40px;
+}
+
+.skill{
+    font-family: 'Caveat', cursive;
+    font-size: 60px;
+}
+
+.la{
+    padding-left: 400px;
+}
+
+.lb{
+    padding-right: 400px;
+}
+.lc{
+    padding-left: 400px;
+}
+
+.ld{
+    padding-right: 400px;
+}
+
+.le{
+    padding-left: 400px;
+}
+
+.la > h2{
+    
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+
+.lb > h2{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+.lc > h2{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+.ld > h2{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+.le > h2{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+
+.la > p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+
+.lb > p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+.lc > p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+.ld > p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+.le > p{
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+}
+
+.end > h1,h2{
+    font-family: 'Caveat', cursive;
+    font-size: 45px;
+}
+
+footer{
+    text-align: right;
+    background-color: lightsalmon;
+    padding: 0;
+    border-radius: 5px;
+}
+
+.heart{
+    height: 45px;
+    width: 45px;
+}
+
+.kiss{
+    height: 45px;
+    width: 45px;
+}
